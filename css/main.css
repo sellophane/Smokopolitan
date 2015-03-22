@@ -114,7 +114,7 @@ body {
 	text-align: center;
 	float: left;
 	position: relative;
-	font-family: 'Goudy Medieval';
+	font: bold 14px Arial,Helvetica,Sans-serif;
 	border-radius: 5px;
 	background-color: rgba(255, 255, 255, 0.82);
 	box-shadow: 0px 1px 20px #000;
@@ -130,7 +130,6 @@ body {
 	top: 0px;
 	bottom: 0px;
 	line-height: 50px;
-	font-size: 20px;
 	text-decoration: none;
 	color: #000;
 }
@@ -149,7 +148,7 @@ body {
 .column {
 	margin-bottom: 50px;
 	color: black;
-	font-family: 'Goudy Medieval';
+	font-family: Arial,Helvetica,Sans-serif;
 	width: 30%;
 	float: left;
 	margin-right: 2.5%;
