@@ -1,0 +1,518 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"com",
+				"column"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"socl",
+				"social-media-element"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"m",
+				"min-height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"feed",
+				"feedUrl"
+			],
+			[
+				"page",
+				"pageNumber"
+			],
+			[
+				"lab",
+				"labelGroup"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"footer",
+				"footer-wrapper"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"img_thumb",
+				"img_thumb_height"
+			],
+			[
+				"fon-",
+				"font-family"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"menu",
+				"menu-secondary"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3266,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 3390,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sellophane/workspace/Smokopolitan/css/main-bckp.css",
+		"/C/Users/Sellophane/workspace/Smokopolitan/index-bkcp.html",
+		"/C/Users/Sellophane/Dysk Google/blog/js/lib/pager_unpacked.js",
+		"/C/Users/Sellophane/Dysk Google/blog/css/style.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/sidebar.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/style2.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/header.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/post.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/menu.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/pager.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/footer.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/featured.css",
+		"/C/Users/Sellophane/Dysk Google/blog/css/base.css",
+		"/E/Studia/CHUJ/Mikołajker/src/Main.java",
+		"/C/Users/Sellophane/Dysk Google/blog/js/menu.js",
+		"/C/Users/Sellophane/Dysk Google/blog/second-header.html",
+		"/C/Users/Sellophane/Dysk Google/blog/slide-template.html",
+		"/C/Users/Sellophane/Dysk Google/blog/js/lib/underscore/underscore.js",
+		"/C/Users/Sellophane/Downloads/blog-11-11-2013 - Kopia.xml",
+		"/C/Users/Sellophane/Desktop/tmp.html",
+		"/C/Users/Sellophane/Desktop/kozacka.txt",
+		"/C/Users/Sellophane/Dysk Google/blog/js/config.js",
+		"/C/Users/Sellophane/Dysk Google/blog/slideshow.js",
+		"/C/Users/Sellophane/Dysk Google/blog/js/lib/jquery/jquery-1.10.2.min.js",
+		"/C/Users/Sellophane/Dysk Google/blog/js/lib/hoverIntent/jquery.hoverIntent.minified.js",
+		"/C/Users/Sellophane/Desktop/Mileny/Mileny.html",
+		"/C/Users/Sellophane/Dysk Google/blog/main.html",
+		"/C/Users/Sellophane/Dysk Google/blog/old_style",
+		"/C/Users/Sellophane/Dysk Google/blog/style.css",
+		"/C/Users/Sellophane/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Sellophane/Dysk Google/blog/js/cycle/jquery.cycle.all.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu-el",
+			"-item\"",
+			"DDD",
+			"gray",
+			"80%",
+			"/*background-color: black;*/",
+			"33",
+			"menu-item",
+			"background-color",
+			"background-color: #0a0;",
+			"/*bac",
+			"Publikacja",
+			"publication",
+			"Publikcja",
+			"Publikacja",
+			"700px",
+			"<a>",
+			"Smokopolitan",
+			"div",
+			", 0.8",
+			"200, 200, 200,",
+			"sfHover",
+			"background",
+			"featured",
+			"main-slides",
+			"205",
+			"header-left",
+			"header-inner",
+			"header_logo",
+			"_",
+			".header",
+			"header-logo",
+			"#header",
+			"postPerPage",
+			"'\n		",
+			"\n	",
+			"+",
+			"uppPageWord",
+			"downPageWord",
+			"upPageWord",
+			"jj",
+			"(' + prevPageNumber + '); return false\">'+upPageWord+'</a></span>",
+			"<span class=\"showpageNum\"><a href=\"#\" onclick=\"redirect",
+			"<span class=\"showpageNum\"><a href=\"#\" ",
+			"<span class=\"showpageNum\"><a href=\"/",
+			"prevnomer",
+			"nextnomer",
+			"maximum",
+			"nomerkiri",
+			"showPages",
+			"lastShownPage",
+			"firstShownPage",
+			"akhir",
+			"mulai",
+			"pageArea",
+			"mulai",
+			"nomerkiri",
+			"maksimal",
+			"loopPages",
+			"banyakdata",
+			"numshowpage",
+			"postperpage",
+			"&#39;",
+			"quot;",
+			"numshowpage",
+			"postperpage",
+			"loopPages",
+			"displayPagerWithData",
+			"loopPages",
+			"loophalaman",
+			"setupPager",
+			"							",
+			"hitungtotaldata",
+			"halamanblogger",
+			"nomerhal",
+			"halamanblogger",
+			"halaman",
+			"type",
+			"jenis",
+			"labelGroup",
+			"lblName",
+			"lblname1",
+			"halamanblogger",
+			"hitungtotaldata",
+			"loophalaman",
+			"document.wri",
+			"urla",
+			"urlactivepage",
+			"halamanblogger",
+			"');\n											",
+			"return",
+			"maksimal",
+			"halamanblogger",
+			"showpage",
+			"displaypageNum",
+			"page",
+			"font-size",
+			"body",
+			"xooplate",
+			"http",
+			"background",
+			".comment-",
+			".comment-block",
+			".post-body",
+			"Kristelle",
+			">",
+			"%s",
+			"desc",
+			"<entry>",
+			"czy-gestosc-owsianki-moze-zalezec-od.html",
+			"czy-gestosc-owsianki-moze-zalezec-od",
+			"footer",
+			"feeds/posts/summary",
+			"feeds/posts/summary?max-results=1&alt=json-in-",
+			"http://www.poziomkowyelinownik.blogspot.com/feeds/posts/summary?max-results=1&alt=json-in-",
+			".menu-secondary-wrap ",
+			"menu-secondary-wrap",
+			"column+wr",
+			"blog2",
+			"#blog2",
+			"footer",
+			"footer-wrap",
+			"footer-wrapper",
+			"footer-wrap",
+			"footer",
+			"blog1",
+			"h2",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 3390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Sellophane/workspace/ygrdasil_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
