@@ -24,14 +24,6 @@ body {
 	background-color: rgba(255, 255, 255, 0.82);
 	box-shadow: 0px 1px 20px #000;
 }
-.header {
-	position: relative;
-	/*background-color: blue;*/
-	width: 90%;
-	min-width: 700px;
-	height: 100px;
-	margin: 20px auto 20px auto;
-}
 .featured.hidden {
 	visibility: hidden;
 	height: 0px;
@@ -72,10 +64,17 @@ body {
 	font: bold 16px Arial,Helvetica,Sans-serif;
 	box-shadow: 0px 1px 20px #000;
 }
-
+.header {
+	position: relative;
+	/*background-color: blue;*/
+	width: 90%;
+	min-width: 700px;
+	height: 150px;
+	margin: 20px auto 20px auto;
+}
 .main-title {
 	font-size: 20px;
-	height: 100px;
+	height: inherit;
 	float: right;
 	line-height: 100%;
 	width: 50%;
@@ -88,6 +87,7 @@ body {
 	float: right;
 	width: 50%;
 	height: 100px;
+	margin-top: 30px;
 }
 .social-media-element {
 	width: 30%;
@@ -144,16 +144,18 @@ body {
 	-webkit-border-radius: 5px;
 	width: 60%;
 	min-width: 900px;
-	padding: 0px 50px;
-	margin: 20px auto 20px auto;
+	margin-top: 20px;
 }
 .column {
 	margin-bottom: 50px;
 	color: black;
 	font-family: 'Goudy Medieval';
-	width: 32%;
+	width: 30%;
 	float: left;
-	margin-right: 1%;
+	margin-right: 2.5%;
+}
+.column:first-child {
+	margin-left: 2.5%;
 }
 .column h3 {
 	margin-left: 10px;
@@ -172,7 +174,7 @@ body {
 	width: 80%;
 	max-width: 250px;
 	overflow: hidden;
-	margin-bottom: 20px;
+	margin: 0px auto 20px;
 	padding: 10px;
 }
 .column-item img {
